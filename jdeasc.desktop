@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=JDeasc 1
+Comment=Custom desktop environment
+Exec=/bin/jdeasc.sh
+Type=Application 
